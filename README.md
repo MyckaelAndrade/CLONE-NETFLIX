@@ -7,7 +7,18 @@ Neste projeto realizei algumas alterações, como a logo da Netflix que no proje
 
 <i>OBS.: todos os links retornam para a mesma página.</i>
 <h3>Tecnologias utilizadas</h3>
+
+
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+
+<!--License session-->
+<h3>📝 Licença</h3>
+
+- Este projeto está sob a licença [MIT](./LICENSE).
+
+
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="">MyckaelAndrade</a></h4>
