@@ -1,24 +1,23 @@
-
 </p>
-<h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
-Recrie a interface da Netflix utilizando tecnologias como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery.
-As imagens dos filmes incluídos neste projetos foram retiradas do site [The Movie Database - TMDb](https://www.themoviedb.org/). O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
-Neste projeto realizei algumas alterações, como a logo da Netflix que no projeto original não tem. A fonte utilizada no original foi Arial, eu já incluí a fonte <b>Roboto</b> do [Google Fonts](https://fonts.google.com/specimen/Roboto).
+<h1 align = "center"> Recreating a Netflix interface with Digital Innovation One </h1>
+Recreate a Netflix interface using technologies such as HTML5, CSS3 and JavaScript. In this project you will learn: how to structure a layout, CSS3 techniques with containers and variables, how to position the elements with Flexbox and how to use Jquery plugins.
+The images of the films included in this project were taken from the website [The Movie Database - TMDb] (https://www.themoviedb.org/). The carousel created using the jQuery plugin [Owl carousel 2] (https://owlcarousel2.github.io/OwlCarousel2/), no website contains several carousel examples.
+In this project, we made some changes, such as a Netflix logo that no original project does not have. The font used in the original was Arial, I already included a <b> Roboto </b> font from [Google Fonts] (https://fonts.google.com/specimen/Roboto).
 
-<i>OBS.: todos os links retornam para a mesma página.</i>
-<h3>Tecnologias utilizadas</h3>
-
-
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<i> NOTE: all links return to the same page. </i>
+<h3> Technologies used </h3>
 
 
-<!--License session-->
-<h3>📝 Licença</h3>
+- [HTML] (https://www.w3schools.com/html/)
+- [CSS] (https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- Este projeto está sob a licença [MIT](./LICENSE).
+
+<! - License session ->
+<h3> 📝 License </h3>
+
+- This project is under license [MIT] (./ LICENSE).
 
 
-<!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="">MyckaelAndrade</a></h4>
+<! - Bottom session ->
+<br> <h4 align = center> Made with <a target="_blank" href=""> MyckaelAndrade </a> </h4>
